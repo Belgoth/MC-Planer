@@ -1,4 +1,4 @@
-Ein kleines Programm mit dem man Layer für Layer in einem Pixelraster Minecraft schematics erstellen kann.
+Ein kleines Programm mit dem man Layer für Layer ,in einem 2D Pixelraster, Minecraft schematics erstellen kann.
 
 
 
