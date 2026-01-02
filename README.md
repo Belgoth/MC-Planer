@@ -3,9 +3,8 @@ Ein kleines Programm mit dem man Layer für Layer in einem Pixelraster Minecraft
 
 
 
-Dieses Programm enthält keine Minecraft-Texturen und keine Texturen aus Resourcepacks.  
-Aus Copyright gründen.
+Dieses Programm enthält aus Copyright gründen keine Texturen.  
 
 Texturen müssen selber einmalig geladen werden.
-Prinzipiell könnt ihr alle Resourcenpacks und sogar eigene Textursets nutzen und diese dann mit der Blockzuordnung 
+Prinzipiell könnt ihr alle Resourcenpacks oder auch eigene Textursets nutzen und diese dann mit der Blockzuordnung im Programm 
 einer Block ID zuweisen. Habe es bisher allerdings nur mit 16x16 Texturen probiert.
